@@ -4,7 +4,7 @@
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
 https://iptv-org.github.io/iptv/index.m3u
-
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
 
 
 [WHITELIST]
